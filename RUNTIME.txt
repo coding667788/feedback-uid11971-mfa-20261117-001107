@@ -1,0 +1,2 @@
+Windows native Python 3.12 standard library and SQLite.
+Python is available on PATH. No Docker or external business services.
